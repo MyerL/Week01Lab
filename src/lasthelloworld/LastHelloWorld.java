@@ -16,6 +16,7 @@ public class LastHelloWorld {
      */
     public static void main(String[] args) 
     {
+        System.out.println("last");
         // TODO code application logic here
     }
     
